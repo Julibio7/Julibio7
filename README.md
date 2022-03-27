@@ -1,6 +1,14 @@
 ### Hi 👋
 
 :information_desk_person: Sou biológa, mestre e doutora em microbiologia aplicada
+
+## Linguagens e Ferramentas:
+___
+![Python](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png)
+![R](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/r.png)
+
+
+
 <!--
 **Julibio7/Julibio7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
