@@ -1,25 +1,38 @@
-### Hi 👋
+:information_desk_person: Olá, sou a Juliana Santos,  biológa, mestre e doutora em microbiologia aplicada. Além disso, faço um curso tecnólogo em Ciência de Dados. 
 
-:information_desk_person: Sou biológa, mestre e doutora em microbiologia aplicada
 
 ## Linguagens e Ferramentas:
 ___
-![Python](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png)
-![R](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/r.png)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  width="40" height="40" />      
+
+<br>
 
 
+**Estou aprendendo:**
 
-<!--
-**Julibio7/Julibio7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
 
-Here are some ideas to get you started:
+   
+   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contato:**
+
+         
+<div>
+<a href="https://www.linkedin.com/in/juliana-a-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:juliana.microbiol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<br>
+
+**Estatística:**
+
+<div>
+<a href="https://github.com/Julibio7">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julibio7&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julibio7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
