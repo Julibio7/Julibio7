@@ -1,8 +1,6 @@
 ### Hi 👋
 
-
-
-
+:information_desk_person: Sou biológa, mestre e doutora em microbiologia aplicada
 <!--
 **Julibio7/Julibio7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
