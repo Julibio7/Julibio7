@@ -1,7 +1,8 @@
 <h1 align="center"> Olá! </h1>
 
-:information_desk_person: Sou a Juliana Santos,  biológa, mestre e doutora em microbiologia aplicada. Além disso, faço um curso tecnólogo em Ciência de Dados e tenho dedicado a aprender programação.  
+:information_desk_person: Sou a Juliana Santos,  biológa, mestre e doutora em microbiologia aplicada. Além disso, sou graduanda em Ciência de Dados e tenho dedicado a aprender programação.  
 
+Tenho interesses por analises de dados, bioinformática, programação em Python e R, ecologia e diversidade microbiana. 
 
 ## Linguagens e Ferramentas:
 ___
